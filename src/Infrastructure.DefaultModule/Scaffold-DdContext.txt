@@ -1,0 +1,9 @@
+﻿
+// Crea los modelos de la base de datos indicada en la conexion
+-Project Domain.DefaultModule.Entities	// Target entities project
+-OutputDir Models						// Target models directory
+-ContextDir Context						// DB Context directory
+-Force									// Overwrite existing files
+-Context "DbDefaultContext.cs"			// Db context class name
+
+Scaffold-DbContext "Server=localhost;Database=DefaultDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -Project Domain.DefaultModule.Entities -OutputDir Models -ContextDir ../Infrastructure.DefaultModule/Context -Context "DbDefaultContext" -Force
