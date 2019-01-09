@@ -1,0 +1,9 @@
+C:\Users\imartinez\source\repos\NexusParkingCore\CrossCutting.Logging\bin\Debug\netcoreapp2.2\CrossCutting.Logging.deps.json
+C:\Users\imartinez\source\repos\NexusParkingCore\CrossCutting.Logging\bin\Debug\netcoreapp2.2\CrossCutting.Logging.dll
+C:\Users\imartinez\source\repos\NexusParkingCore\CrossCutting.Logging\bin\Debug\netcoreapp2.2\CrossCutting.Logging.pdb
+C:\Users\imartinez\source\repos\NexusParkingCore\CrossCutting.Logging\obj\Debug\netcoreapp2.2\CrossCutting.Logging.csproj.CoreCompileInputs.cache
+C:\Users\imartinez\source\repos\NexusParkingCore\CrossCutting.Logging\obj\Debug\netcoreapp2.2\CrossCutting.Logging.AssemblyInfoInputs.cache
+C:\Users\imartinez\source\repos\NexusParkingCore\CrossCutting.Logging\obj\Debug\netcoreapp2.2\CrossCutting.Logging.AssemblyInfo.cs
+C:\Users\imartinez\source\repos\NexusParkingCore\CrossCutting.Logging\obj\Debug\netcoreapp2.2\CrossCutting.Logging.dll
+C:\Users\imartinez\source\repos\NexusParkingCore\CrossCutting.Logging\obj\Debug\netcoreapp2.2\CrossCutting.Logging.pdb
+C:\Users\imartinez\source\repos\NexusParkingCore\CrossCutting.Logging\obj\Debug\netcoreapp2.2\CrossCutting.Logging.csprojAssemblyReference.cache
