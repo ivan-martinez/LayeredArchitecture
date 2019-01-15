@@ -16,7 +16,7 @@ namespace Application.DefaultModule
             //    .AddDefaultUI(UIFramework.Bootstrap4)
             //    .AddEntityFrameworkStores<DbDefaultContext>();
 
-            services.AddSingleton<IDefaultUnitOfWork, DefaultUnitOfWork>();
+            services.AddScoped<IDefaultUnitOfWork, DefaultUnitOfWork>();
 
             // Services
             services.AddTransient<ITableDefaultService, TableDefaultService>();
