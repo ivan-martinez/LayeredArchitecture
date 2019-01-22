@@ -1,15 +1,16 @@
 ﻿using Domain.DefaultModule.Contracts;
 using Domain.DefaultModule.Entities.Models;
 using Infrastructure.Core;
+using Infrastructure.DefaultModule.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Infrastructure.DefaultModule.Repositories
 {
-    public class TableDefaultRepository : Repository<TableDefault>, ITableDefaultRepository
+    public class DefaultRepository : RepositoryBase, IDefaultRepository
     {
-        public TableDefaultRepository(IQueryableUnitOfWork unitOfWork) : base(unitOfWork)
+        public DefaultRepository(DbDefaultContext context) : base(context)
         {
         }
     }
